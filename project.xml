@@ -1,0 +1,39 @@
+<project info="SuiteCloud IDE generated file, do not edit." setAttributesOnUpdate="false">
+  <folder name="NSDEV" bundleable="false">
+    <folder name="SuiteScript" bundleable="false">
+      <folder name="Client Event" bundleable="false">
+        <file name="PI_CE_PurchaseOrder.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PI_CS_FXBreakdown.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PI_CS_TimeEntry.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      </folder>
+      <folder name="Mass Update" bundleable="false">
+        <file name="PI_MU_DeleteRecords.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PI_MU_DepHist_Currency.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PI_MU_Submit_Customers.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PI_MU_USDexchangerate.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PI_MU_UpdateItems.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PI_MU_UpdateNewCustomers.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      </folder>
+      <folder name="Scheduled" bundleable="false">
+        <file name="PI_SCHED_OverDueCustomers.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PI_SCHED_TimeOff.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PI_SCHED_UpdateNewCustomers.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      </folder>
+      <folder name="Suitelet" bundleable="false">
+        <file name="PI_CI_Form.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PI_SLET_ApprovalQueue.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PI_SLET_EmployeeHours.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PI_SLET_Run Accrual.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      </folder>
+      <folder name="User Event" bundleable="false">
+        <file name="PI_UE_Customer.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PI_UE_CustomerPayment.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PI_UE_PurchaseOrder.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      </folder>
+      <folder name="Workflow Action" bundleable="false">
+        <file name="PI_WA_GetUSDTotal.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      </folder>
+    </folder>
+    <file name="PI_WA_ApproveOldTime.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+  </folder>
+</project>
